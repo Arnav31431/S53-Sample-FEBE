@@ -1,0 +1,9 @@
+git pull
+git push
+git commit -m "msg"
+git add
+git clone
+git log
+git diff
+git init
+echo "" 
